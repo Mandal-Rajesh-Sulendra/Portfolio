@@ -1,16 +1,90 @@
-# React + Vite
+# 🌐 Personal Portfolio – Rajesh Mandal
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to my personal portfolio website repository.
+This project showcases my **projects, skills, and experience** as a **B.Tech Computer Science student passionate about AI and Web Development**.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 👨‍💻 About Me
 
-## React Compiler
+Hi, I'm **Rajesh Mandal** (Full Name: Mandal Rajesh Sulendra).
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+I am a **B.Tech CSE student** interested in:
 
-## Expanding the ESLint configuration
+* Artificial Intelligence
+* Machine Learning
+* Web Development
+* Building interactive web applications
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+I enjoy creating modern, responsive, and interactive websites using **React and modern web technologies**.
+
+---
+
+## 🚀 Portfolio Features
+
+* Modern and responsive design
+* Interactive UI with smooth animations
+* Projects showcase section
+* Skills and technologies section
+* Social media integration
+* Contact section
+
+---
+
+## 🛠️ Technologies Used
+
+* **React.js**
+* **JavaScript**
+* **HTML5**
+* **CSS3 / Tailwind CSS**
+* **Framer Motion (Animations)**
+* **Vercel / GitHub Pages (Deployment)**
+
+---
+
+## 📂 Project Structure
+
+```
+portfolio/
+│
+├── public/
+├── src/
+│   ├── components/
+│   ├── pages/
+│   ├── assets/
+│   └── App.js
+│
+├── package.json
+└── README.md
+```
+
+---
+
+## 📸 Portfolio Preview
+
+You can view the live portfolio here:
+
+🔗 **Live Website:**
+(Add your deployed link here)
+
+---
+
+## 📬 Contact
+
+Feel free to connect with me.
+
+* 📧 Email: [mandalrajeshsulendra@gmail.com](mailto:mandalrajeshsulendra@gmail.com)
+* 💼 LinkedIn: (Add your LinkedIn)
+* 💻 GitHub: https://github.com/Mandal-Rajesh-Sulendra
+
+---
+
+## ⭐ Support
+
+If you like this project, consider **starring the repository ⭐** to support my work.
+
+---
+
+## 📄 License
+
+This project is open-source and available under the **MIT License**.
